@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jkellyio
-- 👀 I’m interested in ... startups, AI, dataviz, dogs, hiking, reading, powerlifting
-- 🌱 I’m currently learning ... Python, SQL, all things Data Science (especially DataViz)
+- 👋 Hi, I’m @jkellyio or Jen
+- 👀 I’m interested in ... AI, dataviz, dogs, hiking, reading, powerlifting (ask me about my deadlift!)
+- 🌱 I’m currently learning ... Python, SQL, Ops, all things Data Science (especially DataViz)
 - 💞️ I’m looking to collaborate on ... nifty things with great people
 - 📫 How to reach me ... jen@clarityhouse.io
 
